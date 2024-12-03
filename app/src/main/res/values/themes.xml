@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Use AppCompat theme as the base -->
+    <style name="Theme.InsertionSort" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- You can add custom attributes here if needed -->
+    </style>
+
+</resources>
